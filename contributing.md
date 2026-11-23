@@ -187,4 +187,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Skyrim Special Edition · Updated 2026-11-22 · Shared under the MIT License*
+*Skyrim Special Edition · Updated 2026-11-23 · Shared under the MIT License*
